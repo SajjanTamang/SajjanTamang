@@ -1,7 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Sajjan
 
-name: Sajjan Bomjan Tamang
-role: Student
-location: Kathmandu , Nepal
-focus: Eating
-currently_working_on: MySelf
+🎓 IT Student  
+📍 Kathmandu, Nepal  
+💻 Learning Full Stack Development  
+
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+
+## Goals
+- Become a full-stack developer
+- Build real projects
